@@ -32,7 +32,7 @@ def get_content(cover_url):
 
 def img_exist(png_url):
 	response = requests.head(png_url)
-	print response.status_code
+	#print response.status_code
 	if response.status_code == 200:
 		return True	
 	else:
