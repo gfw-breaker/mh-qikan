@@ -16,10 +16,16 @@ index_page = '|||||\n|---|---|---|---|\n'
 def get_content(cover_url):
 	content = ''
 	prefix = '-'.join(cover_url.split('-')[0:-1])
+	if prefix == '':
+		return False
+
 	if img_exist(prefix + '-online1.jpg'):
 		img_type = '.jpg'
-	else:
+	else img_exist(prefix + '-online1.png'):
 		img_type = '.png' 
+	else:
+		return False
+
 	for i in range(1,100):
 		suffix = '-online' + str(i) + img_type
 		png_url = prefix + suffix
@@ -64,7 +70,7 @@ for idx in range(len(articles)):
 		continue
 	a_title = a_img.get('alt').encode('utf-8')
 	a_cover = base_url + a_img.get('src').encode('utf-8')
-	print a_title  , a_cover
+	print a_title  #, a_cover
 	name = a_url.split('=')[-1] + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	#print name, file_path
@@ -72,6 +78,8 @@ for idx in range(len(articles)):
 	if not os.path.exists(file_path):
 		print file_path
 		content = get_content(a_cover)
+		if not content:
+			continue
 		write_page(name, file_path, a_title, a_url, content)
 	index_page += '|[<img width="200px" src="' + a_cover + '" ><br/>' \
 			+ short_title(a_title) + '<br/><br/>](' + file_path + ')'
