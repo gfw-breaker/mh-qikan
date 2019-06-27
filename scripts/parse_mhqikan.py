@@ -64,7 +64,7 @@ for idx in range(len(articles)):
 		continue
 	a_title = a_img.get('alt').encode('utf-8')
 	a_cover = base_url + a_img.get('src').encode('utf-8')
-	print a_title  #, a_cover
+	print a_title  , a_cover
 	name = a_url.split('=')[-1] + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	#print name, file_path
