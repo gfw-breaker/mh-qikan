@@ -21,7 +21,7 @@ def get_content(cover_url):
 
 	if img_exist(prefix + '-online1.jpg'):
 		img_type = '.jpg'
-	else img_exist(prefix + '-online1.png'):
+	elif img_exist(prefix + '-online1.png'):
 		img_type = '.png' 
 	else:
 		return False
