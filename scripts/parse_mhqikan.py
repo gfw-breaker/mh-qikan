@@ -81,8 +81,8 @@ for idx in range(len(articles)):
 		if not content:
 			continue
 		write_page(name, file_path, a_title, a_url, content)
-	index_page += '|[<img width="200px" src="' + a_cover + '" ><br/>' \
-			+ short_title(a_title) + '<br/><br/>](' + file_path + ')'
+	index_page += '|[<img width="200px" src="' + a_cover + '" ><br/><b>' \
+			+ short_title(a_title) + '</b><br/><br/>](' + file_path + ')'
 	if idx % 4 == 3:
 		index_page += '|\n' 
 
