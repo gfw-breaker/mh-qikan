@@ -26,6 +26,7 @@ for entry in $channelMap ; do
 done
 
 ## git 
+git pull
 git add ../*
 git commit -a -m ok
 git push
