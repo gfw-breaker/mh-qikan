@@ -1,3 +1,0 @@
-|||||
-|---|---|---|---|
-|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/04/zx95-dl-read-cover.png" ><br/> 明慧期刊：真相（第95期）<br/><br/>](../pages/zhenxiang-mobile/95.md)|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/05/11/zx94-dl-read-cover.png" ><br/> 明慧期刊：真相（第94期）<br/><br/>](../pages/zhenxiang-mobile/94.md)|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/04/10/zx93-dl-read-cover.png" ><br/> 明慧期刊：真相（第93期）<br/><br/>](../pages/zhenxiang-mobile/93.md)|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/01/07/zx92-dl-read-cover.png" ><br/> 明慧期刊：真相（第92期）<br/><br/>](../pages/zhenxiang-mobile/92.md)|
