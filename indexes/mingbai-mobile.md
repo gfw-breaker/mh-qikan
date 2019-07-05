@@ -1,3 +1,0 @@
-|||||
-|---|---|---|---|
-|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/13/mingbai-82-read-cover.png" ><br/> 明慧期刊：明白（第八二期）<br/><br/>](../pages/mingbai-mobile/82.md)|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/03/31/mingbai-81-read-cover.png" ><br/> 明慧期刊：明白（第八一期）<br/><br/>](../pages/mingbai-mobile/81.md)|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/01/25/mingbai-80-read-cover.png" ><br/> 明慧期刊：明白（第八零期）<br/><br/>](../pages/mingbai-mobile/80.md)|[<img width="200px" src="http://qikan.minghui.org/mhqkpage/qikanimage/2018/12/04/mingbai-79-2in1-read-cover.png" ><br/> 明慧期刊：明白（第七九期）<br/><br/>](../pages/mingbai-mobile/79.md)|
