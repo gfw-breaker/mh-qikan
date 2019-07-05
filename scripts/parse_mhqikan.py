@@ -30,7 +30,7 @@ def get_content(cover_url):
 		suffix = '-online' + str(i) + img_type
 		png_url = prefix + suffix
 		if img_exist(png_url):
-			content += '<img src="' + png_url + '"/> \n\n'
+			content += '<img src="' + png_url + '"/><hr/>\n'
 		else:
 			break
 	return content

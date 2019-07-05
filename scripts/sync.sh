@@ -5,15 +5,13 @@ cd $(dirname $0)
 
 channelMap="zhoukan:qikan_type_id=5179
 zhongguo:qikan_type_id=5178
-haiwai:qikan_type_id=5151
 mingbai:qikan_type_id=5140
 zhenxiang:qikan_type_id=5240
 huisheng:qikan_type_id=5638
 xiwang:qikan_type_id=5406
 cangsheng:qikan_type_id=5139
 huabao:qikan_type_id=6272
-hongfu:qikan_type_id=5360
-tuidang:qikan_type_id=5177"
+hongfu:qikan_type_id=5360"
 
 ## get feeds files
 for entry in $channelMap ; do
