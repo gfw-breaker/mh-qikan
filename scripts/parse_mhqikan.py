@@ -47,7 +47,7 @@ def img_exist(png_url):
 
 def write_page(name, path, title, link, content):
 	body = '### ' + title + '\n\n---\n\n' + content
-	body += '\n\n---\n\n#### [首页](../../../..) &nbsp;|&nbsp; '
+	body += '\n\n#### [首页](../../../..) &nbsp;|&nbsp; '
 	body += '[禁闻聚合](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; '
 	body += '[手把手翻墙教程](https://github.com/gfw-breaker/guides) '
 	fh = open(path, 'w')
