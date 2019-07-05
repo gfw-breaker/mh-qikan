@@ -1,6 +1,6 @@
 ### 明慧期刊
 
-#### [明慧特刊](pages/tekan.md) &nbsp;&nbsp;|&nbsp;&nbsp; [手机版期刊](pages/mobile.md)
+#### [明慧特刊](pages/special.md) &nbsp;&nbsp;|&nbsp;&nbsp; [手机版期刊](pages/mobile.md)
 ---
 
 |||||
