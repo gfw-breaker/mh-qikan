@@ -3,8 +3,8 @@
 
 cd $(dirname $0)
 
-channelMap="zhoukan:qikan_type_id=5179
-zhongguo:qikan_type_id=5178
+#channelMap="zhoukan:qikan_type_id=5179
+channelMap="zhongguo:qikan_type_id=5178
 mingbai:qikan_type_id=5140
 zhenxiang:qikan_type_id=5240
 huisheng:qikan_type_id=5638
