@@ -1,6 +1,6 @@
 ### 明慧期刊
 
-#### [明慧特刊](pages/special.md) &nbsp;&nbsp;|&nbsp;&nbsp; [翻墙教程](https://github.com/gfw-breaker/guides/) &nbsp;&nbsp;|&nbsp;&nbsp; [禁闻聚合](https://github.com/gfw-breaker/banned-news3/)
+#### [明慧特刊](pages/special.md) &nbsp;&nbsp;|&nbsp;&nbsp; [翻墙教程](https://github.com/gfw-breaker/guides/) &nbsp;&nbsp;|&nbsp;&nbsp; [禁闻聚合](https://github.com/gfw-breaker/banned-news3/) &nbsp;&nbsp;|&nbsp;&nbsp; [禁书下载](https://github.com/gfw-breaker/books/)
 ---
 
 |||||
